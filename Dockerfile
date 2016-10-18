@@ -4,7 +4,7 @@ FROM linuxkonsult/postgres
 
 MAINTAINER Tom Eklöf tom@linux-konsult.com
 
-ENV AppName jira-software
+ENV AppName jira-core
 ENV AppVer 7.1.9
 ENV Arch x64
 
